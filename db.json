@@ -139,6 +139,37 @@
       "modifiedAt": "2024-04-20T11:00:00.000Z",
       "tags": ["shopping"],
       "color": "#00FF00"
+    },
+    {
+      "id": 3,
+      "title": "Lịch học tuần này",
+      "content": "Thứ 2: Toán\nThứ 3: Văn\nThứ 4: Anh\nThứ 5: Lý\nThứ 6: Hóa",
+      "priority": 2,
+      "createdAt": "2025-04-18T09:00:00.000Z",
+      "modifiedAt": "2025-04-18T10:00:00.000Z",
+      "tags": ["schedule", "study"],
+      "color": "#87CEEB"
+    },
+    {
+      "id": 4,
+      "title": "Ý tưởng dự án",
+      "content": "Xây dựng ứng dụng nhắc việc bằng Flutter, tích hợp AI hỗ trợ lập kế hoạch.",
+      "priority": 1,
+      "createdAt": "2025-04-17T15:30:00.000Z",
+      "modifiedAt": "2025-04-17T16:00:00.000Z",
+      "tags": ["idea", "flutter", "ai"],
+      "color": "#9370DB"
+    },
+    {
+      "id": 5,
+      "title": "Việc cần làm hôm nay",
+      "content": "1. Check email\n2. Dọn dẹp bàn làm việc\n3. Họp với team lúc 3PM",
+      "priority": 3,
+      "createdAt": "2025-04-21T07:45:00.000Z",
+      "modifiedAt": "2025-04-21T08:10:00.000Z",
+      "tags": ["daily", "task"],
+      "color": "#F08080"
     }
   ]
 }
+  
