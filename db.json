@@ -82,3 +82,28 @@
               }
             ]
 }
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter",
+      "content": "Làm bài tập ghi chú",
+      "priority": 1,
+      "createdAt": "2024-04-21T12:00:00.000Z",
+      "modifiedAt": "2024-04-21T12:30:00.000Z",
+      "tags": "[\"flutter\", \"todo\"]",
+      "color": "#FFA500"
+    },
+    {
+      "id": 2,
+      "title": "Mua sắm",
+      "content": "Mua rau, thịt, cá",
+      "priority": 2,
+      "createdAt": "2024-04-20T10:00:00.000Z",
+      "modifiedAt": "2024-04-20T11:00:00.000Z",
+      "tags": "[\"shopping\"]",
+      "color": "#00FF00"
+    }
+  ]
+}
+
